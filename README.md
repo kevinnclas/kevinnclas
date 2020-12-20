@@ -1,4 +1,4 @@
-# Hello, this is Kevin and welcome on my GitHub ! 👋
+# Hello, I am Kevin and welcome on my GitHub ! 👋
 
 
 ### I am a 21 years old French Student learning Datascience, AI and Marketing at La Défense, France :fr:
