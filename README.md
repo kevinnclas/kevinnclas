@@ -1,7 +1,7 @@
-### Hello, this is Kevin and welcome on my GitHub ! 👋
+## <align="center" Hello, this is Kevin and welcome on my GitHub ! 👋 />
 
 
-## I am a 21 years old French Student learning Datascience, AI and Marketing at La Défense, France "drapeau FR"
+### I am a 21 years old French Student learning Datascience, AI and Marketing at La Défense, France :fr:
 
 - 🔬 I am currently working on a Data Science project with [Naturgy](https://www.naturgy.com/inicio)
 - 📚 At this semester, I am currently learning Neural Networks, Deep Learning, Web Datamining, Web Application Architectures, Chatbot and Business Negociation.
@@ -10,7 +10,7 @@
 - ⚡ Hobbies: Musical production, Self-development, Video Games and Football
 
 
-### You can contact me:
+### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][LinkedIn]
 [<img align="left" alt="Kaggle" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][Kaggle]
@@ -44,18 +44,18 @@
 
 This is my Deezer account:
 
-[<img src="https://img.talkandroid.com/uploads/2015/09/Deezer-Logo.jpeg" alt="Deezer account" width="350" />](https://www.deezer.com/fr/profile/483938021)
+[<img src="https://img.talkandroid.com/uploads/2015/09/Deezer-Logo.jpeg" alt="Deezer account" width="50" />](https://www.deezer.com/fr/profile/483938021)
 
 You can listen my musical productions by clicking the image !
 
-[<img align="left" alt="Youtube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png" />](https://www.youtube.com/channel/UCiOClUjiixQJw0RznHwZ2Wg)
+[<img align="left" alt="Youtube" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png" />](https://www.youtube.com/channel/UCiOClUjiixQJw0RznHwZ2Wg)
 
 <br />
 <br />
 
 ---
 
-<summary>:Kevin's GitHub Stats</summary>
+<summary>My GitHub Stats</summary>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinnclas&show_icons=true&theme=gruvbox&hide_border=true" />
 
