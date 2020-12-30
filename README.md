@@ -7,7 +7,7 @@
 - 📚 At this semester, I am currently learning Neural Networks, Deep Learning, Web Datamining, Web Application Architectures, Chatbot and Business Negociation.
 - ❔ I’m curious, open-minded and always available to help others !
 - 🏆 2021 Goals: Acquire more knowledge and practice it in projects.
-- ⚡ Hobbies: Musical production, Self-development, Video Games and Football
+- ⚡ Hobbies: Musical production, Self-development, Fashion and Football
 
 
 ### Connect with me:
@@ -30,25 +30,8 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
-<img align="left" alt="Solidworks" width="26px" src="https://josearqt.files.wordpress.com/2015/08/solidworks.png" />
 <img align="left" alt="FL Studio" width="26px" src="https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png" />
-<img align="left" alt="iCloud" width="40px" src="http://images.techhive.com/images/article/2014/06/icloud-icon-100310077-large.png" />
-<img align="left" alt="Suite Adobe" width="26px" src="https://4.bp.blogspot.com/-WbmBgZ3T0Bo/WJYItpu5f3I/AAAAAAAAANE/dcJz_1V9JOk5JdbzabvhgLns1gD_kbFxwCLcB/s1600/cc-logo-Adobe-Creative-Cloud.png" />
 <img align="left" alt="Flask" width="26px" src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png" />
-
-<br />
-<br />
-
----
-### My Music Affection 🎧
-
-This is my Deezer account:
-
-[<img src="https://img.talkandroid.com/uploads/2015/09/Deezer-Logo.jpeg" alt="Deezer account" width="100" />](https://www.deezer.com/fr/profile/483938021)
-
-You can listen my musical productions on my Youtube channel:
-
-[<img align="left" alt="Youtube" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png" />](https://www.youtube.com/channel/UCiOClUjiixQJw0RznHwZ2Wg)
 
 <br />
 <br />
