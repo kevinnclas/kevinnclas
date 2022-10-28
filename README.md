@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][LinkedIn]
+[<img align="left" alt="LinkedIn" width="30px" src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />][LinkedIn]
 [<img align="left" alt="Kaggle" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][Kaggle]
 
 <br />
