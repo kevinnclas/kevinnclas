@@ -1,12 +1,12 @@
 # Hello, I am Kevin and welcome on my GitHub ! 👋
 
 
-### I am a 22 years old French Student learning Datascience, AI and Marketing at La Défense, France :fr:
+### I am a 23 years old Services & Projects Analyst at VINCI Construction :fr:
 
-- 🔬 I am currently working on a Data Science project with [Naturgy](https://www.naturgy.com/inicio)
-- 📚 At this semester, I am currently learning Neural Networks, Deep Learning, Web Datamining, Web Application Architectures, Chatbot and Business Negociation.
+- 🔬 I am currently working at Information Systems of VINCI Construction at Nanterre, France.
+- 📚 I'm currently following a Microsoft Certification about AI Automation and a LVMH Certification about Luxury and its new challenges.
 - ❔ I’m curious, open-minded and always available to help others !
-- 🏆 2021 Goals: Acquire more knowledge and practice it in projects.
+- 🏆 2023 Goals: Acquire more knowledge and practice it in projects.
 - ⚡ Hobbies: Musical production, Self-development, Fashion and Football
 
 
