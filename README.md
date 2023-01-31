@@ -12,7 +12,6 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][LinkedIn]
-[<img align="left" alt="Kaggle" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][Kaggle]
 
 <br />
 <br />
