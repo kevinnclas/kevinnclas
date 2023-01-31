@@ -1,10 +1,10 @@
 # Hello, I'm Kevin and welcome on my GitHub ! 👋
 
 
-### I'm an IT Engineer interested about Data Visualization, Data Science and Artificial Intelligence, based in Paris :fr:
+### I'm an IT Engineer interested about Data Visualization, Data Science & AI, based in Paris :fr:
 
 - 🔬 I am currently working as a Services & Projects Analyst at VINCI Construction IT Department in Nanterre, France.
-- ❔ I’m curious, open-minded and always available to help others !
+- ❔ I’m curious, open-minded and always available to participate to stimulating projects.
 - 🏆 2023 Goals: Acquire more knowledge and practice it in projects.
 - ⚡ Hobbies: Musical production, Fashion and Football
 
