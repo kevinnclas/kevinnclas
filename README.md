@@ -13,9 +13,5 @@
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][LinkedIn]
 
-<br />
-<br />
-
----
 
 [LinkedIn]: https://www.linkedin.com/in/kevin-nicolas-78600/
