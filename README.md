@@ -20,11 +20,9 @@
 
 <summary>My GitHub Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinnclas&show_icons=true&theme=gruvbox&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnclas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 [LinkedIn]: https://www.linkedin.com/in/kevin-nicolas-78600/
-[Kaggle]: https://www.kaggle.com/kevinnclas
