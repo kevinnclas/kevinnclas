@@ -1,5 +1,6 @@
-# Hello, I'm Kevin and welcome on my GitHub ! 👋
-
+<h1 align="center" > 
+  Hello, I'm Kevin and welcome on my GitHub ! 👋
+</h1>
 
 ### I'm an IT Engineer interested about Data Visualization, Data Science & AI, based in Paris :fr:
 
@@ -8,6 +9,7 @@
 - 🏆 2023 Goals: Acquire more knowledge and practice it in projects.
 - ⚡ Hobbies: Musical production, Fashion and Football
 
+Take a look at my [personal website][portfolio] where you'll find my resume and my portfolio ✌️
 
 ### Connect with me:
 
@@ -15,3 +17,4 @@
 
 
 [LinkedIn]: https://www.linkedin.com/in/kevin-nicolas-78600/
+[portfolio]: https://jackykch.github.io/MyPortfolio/homepage.html
